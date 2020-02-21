@@ -1,0 +1,25 @@
+# Electron binding energies in eV for the elements in their natural forms
+# Values compiled by G. Williams 
+# Last updated April 20, 1995
+# http://xdb.lbl.gov/Section1/Sec 1-1.html
+#
+orb   energy
+1s    4803.17
+2s    828.397
+2p-   789.296
+2p+   702.715
+3s    191.168
+3p-   173.823
+3p+   154.86
+3d-   126.123
+3d+   122.154
+4s    39.542
+4p-   32.2069
+4p+   27.9807
+4d-   16.1696
+4d+   15.5448
+5s    4.71858
+5p-   2.79293
+5p+   2.19759
+4f-   1.16862
+4f+   1.04367

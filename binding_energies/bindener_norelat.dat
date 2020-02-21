@@ -1,0 +1,18 @@
+# Theoretical non relativistic binding energies using Autostructure*.
+# *N.R. Badnell, Comput. Phys. Commun., 182(7), 1528-1535 (2011). DOI: 10.1016/j.cpc.2011.03.023
+#
+orb   energy
+1s    4375.65491
+2s    710.91506
+2p    678.94506
+3s    161.23627
+3p    146.84285
+3d    120.22164
+4s    33.95809
+4p    28.10863 
+4d    17.55766
+5s    4.94678
+5p    3.18121
+4f    3.96282
+6s    0.44624
+5d    0.59525

@@ -1,0 +1,16 @@
+# Experimental stopping power cross sections
+# E.I. Sirotinin, A.F. Tulinov, V.A. Khodyrev, V.N. Mizgulin, Nucl. Instr. and Meth. B 4, 337-345 (1984). DOI: 10.1016/0168-583X(84)90577-9
+#
+E     S(E)  err
+80	36.3	1.089
+100	37.6  1.128
+200	34.2  1.026
+300	30    0.9
+400	27.45 0.8235
+600	24.4  0.732
+800	22    0.66
+1000	20    0.6
+2000	15.1  0.453
+3000	12.25 0.3675
+4000	10.4  0.312
+6000	8.2   0.246
